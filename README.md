@@ -29,7 +29,7 @@ The following functionality is completed:
 - Can I pick up my purchase in-store?
 - What’s the quality of your products?
 - Do you have any loyalty or rewards programs?
-- 
+
 ## Video Walkthrough
 
 https://github.com/arundeegutla/Kore-AI-FAQ/assets/55728123/774dadce-28f1-4149-b4c7-edb63c912d52
